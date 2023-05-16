@@ -7,7 +7,7 @@ function geraNumeroAleatorio() {
     return parseInt(Math.random() * maiorValor +1);
 }
 
-console.log('numero aleatório:', numeroSecreto);
+console.log('isso aqui é um easter egg se tu pensou em abrir o console parabéns tomou o spoiler o numero aleatório é:', numeroSecreto);
 var numeroDeTentativas = 0;
 var numeroDeChances = 10;
 
